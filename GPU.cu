@@ -6,7 +6,7 @@
 
 #define BLOCK_SIZE 1024
 #define FFT_SIZE 1024
-#define HOP_SIZE 64
+#define HOP_SIZE 16
 #define AMPLITUDE_THRESHOLD 0.1
 
 typedef struct {
